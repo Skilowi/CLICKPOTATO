@@ -6,4 +6,4 @@ It needs python3
 
 run it in file directory:
 
-`python3 clicker.py`
+`python3 click.py`
