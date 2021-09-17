@@ -1,5 +1,4 @@
 from tkinter import *
-import os
 
 win = Tk()
 win.title("CLICK POTATO!")
