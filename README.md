@@ -1,5 +1,5 @@
 # CLICKPOTATO
-Simple Potato! clicker made in Python, with Tkinter
+Simple Potato! clicker made in Python, with Tkinter and love
 
 
 It needs python3
